@@ -1,4 +1,4 @@
-# Hello 🖖 ! I am Tejas, a software developer.
+# 🖖 Konnichiwa! I am Tejas, a software developer.
 
 ## My skills
 
@@ -18,7 +18,7 @@
 ## Join my discord server
 
 
-<a><img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" alt="codestrike-discord"></img><h3>A community of coders awaits you. Dive in now !</h3></a>
+<a href="https://discord.gg/aFrUQnJ"><img src="https://img.techpowerup.org/201013/annotation-2020-10-13-082405.png" alt="codestrike-discord" style="width:150px"></img><h3>A community of coders awaits you. Dive in now !</h3></a>
 
 
 ##
