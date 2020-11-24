@@ -1,4 +1,4 @@
-# 🖖 Konnichiwa! I am Tejas, a software developer.
+# 🖖 Hey there! I am Tejas.
 
 ## My skills
 
