@@ -1,30 +1,68 @@
-# 🖖 Hey there! I am Tejas.
+![tom and jerry](http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG25.png)
 
-## My skills
-
-![reactjs](https://img.icons8.com/plasticine/100/000000/react.png "ReactJs") ![django](https://img.icons8.com/color/96/000000/django.png "Django") ![python](https://img.icons8.com/color/96/000000/python.png "Python") ![AWS](https://img.icons8.com/color/96/000000/amazon-web-services.png "AWS") ![postgresql](https://img.icons8.com/color/96/000000/postgreesql.png "PostgreSQL") ![javascript](https://img.icons8.com/color/96/000000/javascript.png "Javascript") ![HTML](https://img.icons8.com/color/96/000000/html-5.png "HTML") ![CSS](https://img.icons8.com/color/96/000000/css3.png "CSS")
+# Hey there 👋 I am Tejas → [![linkedin tejas mandre](https://img.icons8.com/fluent/32/000000/linkedin.png)](https://www.linkedin.com/in/tejasmandre/)
 
 
-  ### I have experience of working with small teams of 2-10 people. So far I've built 3 major projects, they are:
+![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaizen-cmd&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
-### 1. [CodeStrike](https://codestrike.in) - Hiring Platform for software interviews with online code editor built from scratch.
+#### Currently working as a part time software engineer at [Ayulla Inc.](https://ayulla.com) - Makers of [Tapdesk](https://tapdesk.io)
 
-### 2. [Shefhat](https://shefhat.com) - API driven automated food blog that populates new recipes daily on it's own.
+##### I can write clean and scalable code in
 
-### 3. [Bookmytool](http://bookmytool.com) - A tooling company startup. Buy and sell tools, write blogs, freelance, machines and so on.
+![reactjs](https://img.icons8.com/plasticine/50/000000/react.png "ReactJs")
+![django](https://img.icons8.com/color/48/000000/django.png "Django")
+![python](https://img.icons8.com/color/48/000000/python.png "Python")
+![postgresql](https://img.icons8.com/color/48/000000/postgreesql.png "PostgreSQL")
+![javascript](https://img.icons8.com/color/48/000000/javascript.png "Javascript")
+![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML")
+![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS")
 
-#### Apart from these, I have worked on several hobby projects which include a voice assistant, various reactJs projects, small websites and API endpoints building.
+##### ⭐ I love to design systems, webapps, mobile apps, system architecture. I am also into building apps with real time architecture at scale.
 
-## Join my discord server
+##### ⭐ I have worked with other technologies like Redis, RabbitMQ, WebRTC, Websockets, networking and so on.
 
+##### I also enjoy deploying and configuring applications for multiple environments.
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png "AWS")
+![Server Congifuration - Apache and Nginx](https://img.icons8.com/color/48/000000/nginx.png)
+![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
+![GitHub](https://img.icons8.com/nolan/48/github.png)
+![Linux](https://img.icons8.com/color/48/000000/linux.png)
 
-<a href="https://discord.gg/aFrUQnJ"><img src="https://img.techpowerup.org/201013/annotation-2020-10-13-082405.png" alt="codestrike-discord" style="width:150px"></img><h3>A community of coders awaits you. Dive in now !</h3></a>
+##### I do competitive programming in
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 
+************************************
+
+##### I am currently learning 🧮
+Mathematics, Probablity, Statistics and competitive programming techniques to make my code do things efficiently and quickly.
+
+************************************
+
+##### Professional projects till date
+1. [CodeStrike](https://codestrike.in) - Hiring Platform for software interviews with online code editor built from scratch.
+
+2. [Shefhat](https://shefhat.com) - API driven automated food blog that populates new recipes daily on it's own.
+
+3. [Bookmytool](http://bookmytool.com) - A tooling company startup. Buy and sell tools, write blogs, freelance, machines and so on.
+
+and many others....
 
 ##
 
-### Little bit about me 😁 
+##### I use my cycle 🚴 if not keyboard
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/77840371/activity-summary/20f8bd2afb865d1c0ac62cd81d9bc547b6d75ad8'></iframe>
 
-#### I come from Pune, India. Currently pursuing my B.Tech in Computer Science and Engineering. In my free time I like helping my friends or anyone for that matter with computers and development. I am learning Japanese along with my bachelors course. I love cooking, cycling and swimming sometimes. Hit me up if you have a project on mind and maybe we can build it together. 
+##
 
-#### You can contact me on mail at [tejasmandre0306@gmail.com](mailTo:tejasmandre0306@gmail.com)
+##### A bit about me
+I come from Pune, India. Currently pursuing my B.Tech in Computer Science and Engineering. In my free time I like helping my friends or anyone for that matter with computers and development. I am learning Japanese along with my bachelors course. I love cooking, cycling and swimming sometimes. Hit me up if you have a project on mind and maybe we can build it together. 
+
+##### Reach me at
+[![linkedin tejas mandre](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/tejasmandre/)
+[![gmail tejas mandre](https://img.icons8.com/fluent/48/000000/gmail--v1.png)](tmandre3@gmail.com)
+
+********
+
+#### I livestream coding on my discord server
+
+<iframe src="https://discord.com/widget?id=725628554875895829&theme=dark" width="550" height="300" allowtransparency="true" frameBorder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
