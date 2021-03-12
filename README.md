@@ -50,7 +50,7 @@ and many others....
 ##
 
 #### I use my cycle 🚴 if not keyboard
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/77840371/activity-summary/20f8bd2afb865d1c0ac62cd81d9bc547b6d75ad8'></iframe>
+![tejas mandre strava](https://i.imgur.com/NZVWB9w.png)
 
 ##
 
