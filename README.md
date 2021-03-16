@@ -63,6 +63,6 @@ I come from Pune, India. Currently pursuing my B.Tech in Computer Science and En
 
 ********
 
-#### I livestream coding on my discord server
+#### I livestream and discuss programming on discord
 
 [![CodeStrike Discord](https://discordapp.com/api/guilds/725628554875895829/widget.png?style=banner3)](https://codestrike.in)
