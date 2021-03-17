@@ -1,4 +1,3 @@
-![tom and jerry](http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG25.png)
 
 # Hey there 👋 I am Tejas → [![linkedin tejas mandre](https://img.icons8.com/fluent/32/000000/linkedin.png)](https://www.linkedin.com/in/tejasmandre/)
 
