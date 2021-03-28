@@ -1,5 +1,5 @@
 
-# Hey there 👋 I am Tejas → [![linkedin tejas mandre](https://img.icons8.com/fluent/32/000000/linkedin.png)](https://www.linkedin.com/in/tejasmandre/)
+# Hey there 👋 I am Tejas → [Good to read](https://tejasmandre.tech/)
 
 
 ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaizen-cmd&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
