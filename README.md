@@ -4,8 +4,6 @@
 
 ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaizen-cmd&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
-## Currently working as a part time software engineer at [Ayulla Inc.](https://ayulla.com) - Makers of [Tapdesk](https://tapdesk.io)
-
 ### ⭐ I can write clean and scalable code in
 
 ![reactjs](https://img.icons8.com/plasticine/50/000000/react.png "ReactJs")
