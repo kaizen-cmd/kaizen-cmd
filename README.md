@@ -1,5 +1,5 @@
 
-# Hey there 👋 I am Tejas → [Good to read! Click here](https://tejasmandre.tech/)
+# Hey there 👋 I am Tejas → [Good to read! Click here](https://tejasmandre.vercel.app/)
 
 
 ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaizen-cmd&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
