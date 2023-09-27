@@ -1,7 +1,7 @@
 
 ### Hey there 👋 I am Tejas → [Good to read! Click here](https://tejasmandre.vercel.app/)
 #### A bit about me
-I come from Pune, India. Currently pursuing my B.Tech in Computer Science and Engineering. In my free time I like helping my friends or anyone for that matter with computers and development. I am learning Japanese along with my bachelors course. I love cooking, cycling and swimming sometimes. Hit me up if you have a project on mind and maybe we can take it to the moon 🚀
+Surfing and building stuff on the internet
 
 
 ##### Reach me at
