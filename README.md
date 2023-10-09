@@ -1,13 +1,56 @@
+<div align="center">
+<h1>
+Hello, I'm Tejas
+</h1>
+</div>
 
-### Hey there 👋 I am Tejas → [Good to read! Click here](https://tejasmandre.vercel.app/)
-#### A bit about me
-Surfing and building stuff on the internet
+![Profile Banner](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
 
+I'm a 23-year-old software engineer at VMware with a passion for building robust distributed systems and diving deep into the internals of relational databases. My expertise spans multiple programming languages, with a focus on Python and Java, and I thrive in multi-threaded and multiprocessing environments.
 
-##### Reach me at
-[![linkedin tejas mandre](https://img.icons8.com/fluent/40/000000/linkedin.png)](https://www.linkedin.com/in/tejasmandre/)
-[![gmail tejas mandre](https://img.icons8.com/fluent/40/000000/gmail--v1.png)](tmandre3@gmail.com)
+<div align="center">
+<h2>🚀 My Expertise</h2>
+</div>
 
+- [My engineering blog](https://tejasmandre.vercel.app)
+- 💻 Skilled in Python and Java
+- 🌐 Designing Distributed Systems
+- 📊 In-depth knowledge of Relational Database Internals
+- 🔄 Multithreading and Multiprocessing Enthusiast
+- ⚙️ Developed a Workload Generator in C++
+- 🎖️ Awarded for reducing infrastructure provisioning time and costs
+- 📈 Built lightning-fast, data-intensive dashboards through database optimization and threading
 
-#### Dynamic image renderer built using (Pillow, Strava API)
-[![tejas mandre strava](https://strava-badge.herokuapp.com/get_image/e3559ce5f5b9c38de60b96ff4a495661d191cebd/77840371/f6fb51c031d3d69be0ee803c5fb3e88c574ffafc/63041/bc8f04809cf88670768f6a70d0d9d96d1fcb6f07)](https://www.strava.com/athletes/77840371)
+<div align="center">
+<h2>
+🔧 Technologies I Love
+</h2>
+</div>
+
+- Python
+- Java
+- C++
+- Kubernetes
+- Distributed Systems
+- Relational Databases
+- Threads & Multiprocessing
+
+<div align="center">
+<h2>
+📫 Get in Touch
+</h2>
+</div>
+
+- [My engineering blog](https://tejasmandre.vercel.app)
+- LinkedIn: [Tejas Mandre](https://www.linkedin.com/in/tejasmandre/)
+- Twitter: [@TejasMandre](https://twitter.com/TejasMandre)
+
+<div align="center">
+<h2>
+📸 Some Glimpses
+</h2>
+</div>
+
+![Code in Action](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+Feel free to explore my repositories and projects to see my work in action. I'm always eager to learn and collaborate on exciting new projects. Let's connect and build something amazing together!
