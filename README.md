@@ -4,8 +4,6 @@ Hello, I'm Tejas
 </h1>
 </div>
 
-![Profile Banner](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
-
 I'm a 24-year-old software engineer working with VMware having a passion for building robust distributed systems and diving deep into the internals of relational databases. My expertise spans multiple programming languages, with a focus on Python and Java, and I thrive in multi-threaded and multiprocessing environments.
 
 <div align="center">
