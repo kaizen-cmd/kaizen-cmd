@@ -6,4 +6,4 @@ Hello, I'm Tejas, '22 B.Tech Grad
 - My research interests are Operating Systems, Kernels, Systems for Machine Learning
 - Currently working at Nutanix on the Hardware Abstraction Layer of the Nutanix Platform
 - Previously worked at VMware on VMware's DELL Cloud and VMware Cloud Foundation's LCM service
-- At VMware I have also built infra orchestration, load generator
+- At VMware I have also built infra orchestration and event driven syntehtic load generator
