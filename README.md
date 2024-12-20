@@ -1,5 +1,5 @@
 <h3>
-Hello, I'm Tejas, '22 B.Tech Grad
+Hello, I'm Tejas, an Engineer @ Nutanix Inc.
 </h3>
 
 - I am skilled in C++, Concurrency, Distributed Systems, Databases, Python, Web Systems, Algorithms
