@@ -8,6 +8,7 @@ Hello, I'm Tejas, an Engineer @ Nutanix Inc.
 <h4>
 Previous Works  
 </h4>
+
 - Vmware : Distributed Synthetic Workload Orchestrator - Techstack: C++, TCP protocol, gRPC, CPU, Memory, Disk Tools
 - VMware : LCM Service - Techstack: Java, Spring Boot, TestNg
 - VMware : Multiple services - Techstack: K8s, Docker, FastAPI, React.js
