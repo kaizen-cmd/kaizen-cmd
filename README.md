@@ -2,8 +2,12 @@
 Hello, I'm Tejas, an Engineer @ Nutanix Inc.
 </h3>
 
-- I am skilled in C++, Concurrency, Distributed Systems, Databases, Python, Web Systems, Algorithms
 - My research interests are Operating Systems, Kernels, Systems for Machine Learning
-- Currently working at Nutanix on the Hardware Abstraction Layer of the Nutanix Platform - Techstack: Rust, IPC - Dbus, Hardware components 
-- Previously worked at VMware on VMware's DELL Cloud and VMware Cloud Foundation's LCM service
-- There I also wrote a distributed even driven load orchestrator using C++ & RPCs. This was the highlight of my time there. 
+- Working at Nutanix on the Hardware Abstraction Layer of the Nutanix Platform - Techstack: Rust::Tokio, IPC - Dbus, Hardware components 
+
+<h4>
+Previous Works  
+</h4>
+- Vmware : Distributed Synthetic Workload Orchestrator - Techstack: C++, TCP protocol, gRPC, CPU, Memory, Disk Tools
+- VMware : LCM Service - Techstack: Java, Spring Boot, TestNg
+- VMware : Multiple services - Techstack: K8s, Docker, FastAPI, React.js
