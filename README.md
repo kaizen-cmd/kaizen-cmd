@@ -3,7 +3,7 @@ Hello, I'm Tejas, an Engineer @ Nutanix Inc.
 </h3>
 
 - My research interests are Operating Systems, Kernels, Systems for Machine Learning
-- Working at Nutanix on the Hardware Abstraction Layer of the Nutanix Platform - Techstack: Rust::Tokio, IPC - Dbus, Hardware components 
+- Working at Nutanix on the Hardwared service on the Nutanix AHV Hypervisor - Techstack: Rust::Tokio, IPC - Dbus, Hardware components 
 
 <h4>
 Previous Works  
