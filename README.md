@@ -20,4 +20,4 @@ Previous Works
 
 - Wordchain Discord Game - 950 servers, 50K+ users
 - Multi Room Chat App - Written in Rust
-- Codestrike - Leetcode like platforms for colleges
+- Codestrike - Leetcode like platforms for colleges with Real Time Interview Support
