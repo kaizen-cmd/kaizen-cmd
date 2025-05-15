@@ -3,7 +3,7 @@ Hello, I'm Tejas, an Engineer @ Nutanix Inc.
 </h3>
 
 - My research interests are Operating Systems, Kernels, Systems for Machine Learning
-- Working on Hardware Aggreation Service on the Nutanix AHV Hypervisor
+- Working on Hardware Aggregation Service on the Nutanix AHV Hypervisor
 - Tech stack: Rust - Tokio, DBus, SMBIOS, Hardware component tools, Python
 
 <h4>
