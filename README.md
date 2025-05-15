@@ -3,7 +3,8 @@ Hello, I'm Tejas, an Engineer @ Nutanix Inc.
 </h3>
 
 - My research interests are Operating Systems, Kernels, Systems for Machine Learning
-- Working at Nutanix on the Hardware - Software interaction SDK
+- Working on Hardware Aggreation Service on the Nutanix AHV Hypervisor
+- Tech stack: Rust - Tokio, DBus, SMBIOS, Hardware component tools, Python
 
 <h4>
 Previous Works  
@@ -11,13 +12,13 @@ Previous Works
 
 - Vmware : Distributed Synthetic Workload Orchestrator - Techstack: C++, TCP protocol, gRPC, CPU, Memory, Disk Tools
 - VMware : LCM Service - Techstack: Java, Spring Boot, TestNg
-- VMware : Multiple services - Techstack: K8s, Docker, FastAPI, React.js
-- Ayulla: Tapdesk CRM SaaS - Techstack: Django, AWS Elastic Benastak, Postgres, Vue.js
+- VMware : Multiple services - Techstack: Python, K8s, Docker, FastAPI, React.js
+- Ayulla: Tapdesk CRM SaaS - Techstack: Python, Django, AWS Elastic Benastak, Postgres, Vue.js
 
 <h4>
   Personal Works
 </h4>
 
-- Wordchain Discord Game - 950 servers, 50K+ users
+- Wordchain Discord Game - 1070 servers, 12K+ users
 - Multi Room Chat App - Written in Rust
 - Codestrike - Leetcode like platforms for colleges with Real Time Interview Support
