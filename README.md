@@ -3,8 +3,8 @@ Hello, I'm Tejas, an Engineer @ Nutanix Inc.
 </h3>
 
 - My research interests are Distributed Systems, Systems, Databases, Algorithms
-- Working on Hardware Aggregation Service on the Nutanix AHV Hypervisor
-- Tech stack: Rust - Tokio, DBus, SMBIOS, Hardware component tools, Python
+- Working on Hardware Aggregation Service & SDK on the Nutanix AHV Hypervisor
+- Tech: Rust - Tokio, DBus, SMBIOS, IPMI, Hardware component tools, Python
 
 <h4>
 Previous Works  
@@ -19,6 +19,6 @@ Previous Works
   Personal Works
 </h4>
 
-- Wordchain Discord Game - 1070 servers, 12K+ users
+- Wordchain Discord Game - 1100 servers, 12K+ users - ($103 MRR)
 - Multi Room Chat App - Written in Rust
 - Codestrike - Leetcode like platforms for colleges with Real Time Interview Support
