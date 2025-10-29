@@ -3,9 +3,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tejas%20Mandre-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasmandre)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-hotpan-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/hotpan)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-tejasmandre.vercel.app-9cf?logo=vercel&logoColor=black)](https://tejasmandre.vercel.app)
-
----
+[![Portfolio Badge](https://img.shields.io/badge/Blog-tejasmandre.vercel.app-9cf?logo=vercel&logoColor=black)](https://tejasmandre.vercel.app)
 
 ### 💡 Research Interests
 - Distributed Systems  
@@ -13,15 +11,11 @@
 - Systems Design  
 - Algorithms  
 
----
-
 ### ⚙️ Current Work
 Working on **Hardware Aggregation Service & SDK** for the **Nutanix AHV Hypervisor**.  
 
 **Tech Stack:**  
 `Rust` (Tokio, DBus, SMBIOS, IPMI, hardware tools) · `Python`
-
----
 
 ### 🏢 Previous Experience
 
@@ -37,7 +31,6 @@ Working on **Hardware Aggregation Service & SDK** for the **Nutanix AHV Hypervis
 - 💼 *Tapdesk CRM SaaS*  
   `Python`, `Django`, `AWS Elastic Beanstalk`, `PostgreSQL`, `Vue.js`
 
----
 
 ### 💻 Personal Projects
 
@@ -58,15 +51,5 @@ Working on **Hardware Aggregation Service & SDK** for the **Nutanix AHV Hypervis
 
 ### 🧰 Tech Highlights
 `Rust` · `Python` · `C++` · `Java` · `Spring Boot` · `Kubernetes` · `Docker` · `FastAPI` · `React` · `Django` · `AWS` · `PostgreSQL` · `gRPC` · `CMake`
-
----
-
-### 📫 Connect
-- 🌐 Portfolio: [tejasmandre.vercel.app](https://tejasmandre.vercel.app)
-- 💼 [LinkedIn](https://linkedin.com/in/tejasmandre)
-- 🧩 [LeetCode](https://leetcode.com/u/hotpan)
-- 🐙 [GitHub](https://github.com/kaizen-cmd)
-
----
 
 ⭐️ *“Building reliable distributed systems — one abstraction at a time.”*
