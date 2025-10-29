@@ -20,5 +20,5 @@ Previous Works
 </h4>
 
 - Wordchain Discord Game - 1100 communities, 12K+ users - ($103 MRR)
-- Multi Room Chat App - Written in Rust
-- Codestrike - Leetcode like platforms for colleges with Real Time Interview Support
+- [https://github.com/kaizen-cmd/LetsChat-server](Multi Room Chat App) - Written in Rust
+- [https://tejasmandre.vercel.app/read/how-codestrike-came-into-existence](Codestrike) - A collaborative cdoing interview platform with real time code editor, compiler, testcase parser and chat functionality.
