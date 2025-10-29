@@ -19,6 +19,6 @@ Previous Works
   Personal Works
 </h4>
 
-- Wordchain Discord Game - 1100 servers, 12K+ users - ($103 MRR)
+- Wordchain Discord Game - 1100 communities, 12K+ users - ($103 MRR)
 - Multi Room Chat App - Written in Rust
 - Codestrike - Leetcode like platforms for colleges with Real Time Interview Support
