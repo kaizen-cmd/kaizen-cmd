@@ -1,55 +1,36 @@
-# 👋 Hi, I'm Tejas  
-### Engineer @ [Nutanix Inc.](https://www.nutanix.com)
+## Tejas Mandre  
+Engineer @ Nutanix  
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tejas%20Mandre-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasmandre)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-hotpan-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/hotpan)
-[![Portfolio Badge](https://img.shields.io/badge/Blog-tejasmandre.vercel.app-9cf?logo=vercel&logoColor=black)](https://tejasmandre.vercel.app)
+**Links**  
+- [LinkedIn](https://linkedin.com/in/tejasmandre)  
+- [LeetCode](https://leetcode.com/u/hotpan)  
+- [Blog](https://tejasmandre.vercel.app)  
 
-### 💡 Research Interests
-- Distributed Systems  
-- Databases  
-- Systems Design  
-- Algorithms  
+### Focus
+Distributed systems, databases, system design, consensus algorithms.
 
-### ⚙️ Current Work
-Working on **Hardware Aggregation Service & SDK** for the **Nutanix AHV Hypervisor**.  
+### Current
+**Nutanix** — Hardware Aggregation Service & SDK for **AHV Hypervisor**  
+Stack: Rust (Tokio, DBus, SMBIOS, IPMI), Python
 
-**Tech Stack:**  
-`Rust` (Tokio, DBus, SMBIOS, IPMI, hardware tools) · `Python`
-
-### 🏢 Previous Experience
-
+### Experience
 **VMware**
-- 🧪 *Distributed Synthetic Workload Orchestrator*  
-  `C++`, `TCP`, `gRPC`, `CPU/Memory/Disk Tools`
-- ⚙️ *LCM Service*  
-  `Java`, `Spring Boot`, `TestNG`
-- 🧰 *Multiple Services*  
-  `Python`, `Kubernetes`, `Docker`, `FastAPI`, `React.js`
+- Distributed workload orchestration (C++, gRPC, TCP)
+- Lifecycle Management services (Java, Spring Boot)
+- Backend services and infra (Python, Kubernetes, Docker)
 
 **Ayulla**
-- 💼 *Tapdesk CRM SaaS*  
-  `Python`, `Django`, `AWS Elastic Beanstalk`, `PostgreSQL`, `Vue.js`
+- Tapdesk CRM (Python, Django, AWS, PostgreSQL)
 
+### Projects
+- **[Wordchain](https://top.gg/bot/1225490759432798320)** — Discord game (1.1k+ servers, 12k+ users, MRR)
+- **[LetsChat](https://github.com/kaizen-cmd/LetsChat-server)** — Multi-room chat server in Rust
+- **[Raft (C++/gRPC)](https://github.com/kaizen-cmd/Raft-Impl-gRPC-cpp)** — Leader election, log replication, fault tolerance
+- **[Codestrike](https://tejasmandre.vercel.app/read/how-codestrike-came-into-existence)** — Collaborative coding interview platform
 
-### 💻 Personal Projects
+### Stack
+C++ · Python · Rust · Java  
+Kubernetes · Docker · AWS  
+PostgreSQL · gRPC · FastAPI · Django · Spring Boot
 
-- 🎮 [**Wordchain Discord Game**](https://top.gg/bot/1225490759432798320)  
-  > 1,100+ communities · 12K+ users · $103 MRR  
-
-- 💬 [**LetsChat**](https://github.com/kaizen-cmd/LetsChat-server)  
-  > Multi-room chat application written in **Rust**
-
-- ⚡ [**Raft Implementation (C++ gRPC)**](https://github.com/kaizen-cmd/Raft-Impl-gRPC-cpp)  
-  > Implementation of the **Raft consensus algorithm** demonstrating **leader election, log replication, and fault tolerance** across a 5-node cluster.  
-  > Built using `C++`, `gRPC`, and `CMake` to showcase distributed systems fundamentals and consensus mechanisms.
-
-- 🧠 [**Codestrike**](https://tejasmandre.vercel.app/read/how-codestrike-came-into-existence)  
-  > Collaborative coding interview platform with a real-time editor, compiler, testcase parser, and chat functionality.
-
----
-
-### 🧰 Tech Highlights
-`Rust` · `Python` · `C++` · `Java` · `Spring Boot` · `Kubernetes` · `Docker` · `FastAPI` · `React` · `Django` · `AWS` · `PostgreSQL` · `gRPC` · `CMake`
-
-⭐️ *“Building reliable distributed systems — one abstraction at a time.”*
+Building reliable distributed systems.
