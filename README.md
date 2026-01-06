@@ -1,16 +1,14 @@
 ## Tejas Mandre  
 Engineer @ Nutanix  
 
-**Links**  
-- [LinkedIn](https://linkedin.com/in/tejasmandre)  
-- [LeetCode](https://leetcode.com/u/hotpan)  
-- [Blog](https://tejasmandre.vercel.app)  
+**Reach me on**  
+[LinkedIn](https://linkedin.com/in/tejasmandre)  
 
 ### Focus
 Distributed systems, databases, system design, consensus algorithms.
 
 ### Current
-**Nutanix** — Hardware Aggregation Service & SDK for **AHV Hypervisor**  
+**Nutanix** Hardware Aggregation Service & SDK for **AHV Hypervisor**  
 Stack: Rust (Tokio, DBus, SMBIOS, IPMI), Python
 
 ### Experience
